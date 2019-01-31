@@ -1,0 +1,2 @@
+Use nc to connect. Use !ls to check directory.
+find runnable script to get CTF{SOmething-CATastr0phic}
